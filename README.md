@@ -4,6 +4,7 @@ The program will print a list of integers, fibonacci or primes.
 The user will select which one to run and how many it will output.
 
 ### To Run:
+Navigate to the file folder -
 - To Run Program: python mathmagician.py
 - To Run Tests: python mathmagician_tests.py -v
 

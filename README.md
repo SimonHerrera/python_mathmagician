@@ -1,13 +1,13 @@
-## Below are the instructions for our exercise - 7/26/2016
+### Below are the instructions for our exercise - 7/26/2016
 
-### The program will print a list of integers, fibonacci or primes.
-#### The user will select which one to run and how many it will output.
+The program will print a list of integers, fibonacci or primes.
+The user will select which one to run and how many it will output.
 
-## To Run:
-### To Run Program: python mathmagician.py
-### To Run Tests: python mathmagician_tests.py -v
+### To Run:
+- To Run Program: python mathmagician.py
+- To Run Tests: python mathmagician_tests.py -v
 
-Mathmagician
+### Project - Mathmagician:
 
 Setup
 
